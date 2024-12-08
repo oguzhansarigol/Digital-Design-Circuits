@@ -1,6 +1,3 @@
-Aşağıda, **README.txt** dosyasına yazabileceğiniz bir taslak bulunmaktadır. Dosya, projelerinizin içeriğini ve kullanımını açıklamak için düzenlenmiştir:  
-
----
 
 # Eskişehir Osmangazi Üniversitesi - Digital Design Lab Devreleri  
 
